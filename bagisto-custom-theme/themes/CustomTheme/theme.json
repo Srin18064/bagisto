@@ -1,0 +1,17 @@
+{
+  "name": "CustomTheme",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "description": "A custom theme for the Bagisto eCommerce platform.",
+  "assets": {
+    "css": "assets/css/style.css",
+    "js": "assets/js/script.js",
+    "images": "assets/images"
+  },
+  "views": {
+    "layouts": "views/layouts/master.blade.php",
+    "home": "views/home/index.blade.php",
+    "products": "views/products/view.blade.php"
+  },
+  "license": "MIT"
+}
